@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{1A328866-2140-6D52-2205-0DA56207E7E0}</ProjectGuid>
+    <ProjectGuid>{D43EE3F2-7F2D-7562-7044-2D3F862DEEF5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -58,6 +58,7 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.10f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\CoffreVoiture.cs" />
     <Compile Include="Assets\Scripts\déplacement.cs" />
     <Compile Include="Assets\Scripts\regard.cs" />
     <Compile Include="Assets\Scripts\GestionVoiture.cs" />
